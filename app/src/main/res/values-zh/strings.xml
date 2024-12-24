@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计数器</string>
+    <string name="l_schen_fehlgeschlagen">删除失败</string>
+    <string name="ok">确定</string>
+    <string name="app_info">应用信息</string>
+    <string name="zur_cksetzen_best_tigen">确认重置</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">您确定要删除所有事件吗？此操作无法撤消。</string>
+    <string name="ja_alle_l_schen">是的，全部删除</string>
+    <string name="abbrechen">取消</string>
+    <string name="ereignis_l_schen">删除事件</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">您确定要删除此事件吗？</string>
+    <string name="ja_l_schen">是的，删除</string>
+    <string name="ereignisz_hler">事件计数器</string>
+    <string name="menu">菜单</string>
+    <string name="als_csv_datei_teilen">分享为CSV文件…</string>
+    <string name="zur_cksetzen">重置</string>
+    <string name="ereignisarten">事件类型…</string>
+    <string name="info">信息</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">暂无事件。\n点击其中一个按钮来记录事件。</string>
+    <string name="date_time_format">yyyy年MM月dd日 HH:mm:ss</string>
+    <string name="ereignis_l_schen1">删除事件</string>
+    <string name="einstellungen">设置</string>
+    <string name="text_f_r_ereignis_1">事件1的文本</string>
+    <string name="text_f_r_ereignis_2">事件2的文本</string>
+    <string name="speichern">保存</string>
+    <string name="ereignisarten_anpassen">自定义事件类型</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">在这里您可以设置两种事件类型的标签。</string>
+    <string name="bezeichnung_f_r_ereignis_1">事件1的标签</string>
+    <string name="bezeichnung_f_r_ereignis_2">事件2的标签</string>
+</resources>

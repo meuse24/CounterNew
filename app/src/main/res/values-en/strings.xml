@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="l_schen_fehlgeschlagen">Delete failed</string>
+    <string name="ok">OK</string>
+    <string name="app_info">App Info</string>
+    <string name="zur_cksetzen_best_tigen">Confirm Reset</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">Do you really want to delete all events? This action cannot be undone.</string>
+    <string name="ja_alle_l_schen">Yes, delete all</string>
+    <string name="abbrechen">Cancel</string>
+    <string name="ereignis_l_schen">Delete Event</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">Do you really want to delete this event?</string>
+    <string name="ja_l_schen">Yes, delete</string>
+    <string name="ereignisz_hler">Event Counter</string>
+    <string name="menu">Menu</string>
+    <string name="als_csv_datei_teilen">Share as CSV file…</string>
+    <string name="zur_cksetzen">Reset</string>
+    <string name="ereignisarten">Event Types…</string>
+    <string name="info">Info</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">No events available.\nTap one of the buttons to record an event.</string>
+    <string name="date_time_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="ereignis_l_schen1">Delete Event</string>
+    <string name="einstellungen">Settings</string>
+    <string name="text_f_r_ereignis_1">Text for Event 1</string>
+    <string name="text_f_r_ereignis_2">Text for Event 2</string>
+    <string name="speichern">Save</string>
+    <string name="ereignisarten_anpassen">Customize Event Types</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">Here you can set the labels for both event types.</string>
+    <string name="bezeichnung_f_r_ereignis_1">Label for Event 1</string>
+    <string name="bezeichnung_f_r_ereignis_2">Label for Event 2</string>
+</resources>

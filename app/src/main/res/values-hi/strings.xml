@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">काउंटर</string>
+    <string name="l_schen_fehlgeschlagen">हटाना विफल</string>
+    <string name="ok">ठीक है</string>
+    <string name="app_info">ऐप जानकारी</string>
+    <string name="zur_cksetzen_best_tigen">रीसेट की पुष्टि करें</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">क्या आप वाकई सभी इवेंट हटाना चाहते हैं? इस क्रिया को वापस नहीं लिया जा सकता।</string>
+    <string name="ja_alle_l_schen">हाँ, सब हटाएँ</string>
+    <string name="abbrechen">रद्द करें</string>
+    <string name="ereignis_l_schen">इवेंट हटाएँ</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">क्या आप वाकई इस इवेंट को हटाना चाहते हैं?</string>
+    <string name="ja_l_schen">हाँ, हटाएँ</string>
+    <string name="ereignisz_hler">इवेंट काउंटर</string>
+    <string name="menu">मेनू</string>
+    <string name="als_csv_datei_teilen">CSV फ़ाइल के रूप में साझा करें…</string>
+    <string name="zur_cksetzen">रीसेट</string>
+    <string name="ereignisarten">इवेंट प्रकार…</string>
+    <string name="info">जानकारी</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">कोई इवेंट उपलब्ध नहीं हैं।\nएक इवेंट रिकॉर्ड करने के लिए किसी भी बटन पर टैप करें।</string>
+    <string name="date_time_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="ereignis_l_schen1">इवेंट हटाएँ</string>
+    <string name="einstellungen">सेटिंग्स</string>
+    <string name="text_f_r_ereignis_1">इवेंट 1 के लिए टेक्स्ट</string>
+    <string name="text_f_r_ereignis_2">इवेंट 2 के लिए टेक्स्ट</string>
+    <string name="speichern">सहेजें</string>
+    <string name="ereignisarten_anpassen">इवेंट प्रकार को अनुकूलित करें</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">यहाँ आप दोनों इवेंट प्रकारों के लेबल सेट कर सकते हैं।</string>
+    <string name="bezeichnung_f_r_ereignis_1">इवेंट 1 का लेबल</string>
+    <string name="bezeichnung_f_r_ereignis_2">इवेंट 2 का लेबल</string>
+</resources>

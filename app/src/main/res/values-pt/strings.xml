@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="l_schen_fehlgeschlagen">Falha ao excluir</string>
+    <string name="ok">OK</string>
+    <string name="app_info">Informações do aplicativo</string>
+    <string name="zur_cksetzen_best_tigen">Confirmar redefinição</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">
+        Deseja realmente excluir todos os eventos? Esta ação não pode ser desfeita.
+    </string>
+    <string name="ja_alle_l_schen">Sim, excluir tudo</string>
+    <string name="abbrechen">Cancelar</string>
+    <string name="ereignis_l_schen">Excluir evento</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">
+        Deseja realmente excluir este evento?
+    </string>
+    <string name="ja_l_schen">Sim, excluir</string>
+    <string name="ereignisz_hler">Contador de eventos</string>
+    <string name="menu">Menu</string>
+    <string name="als_csv_datei_teilen">Compartilhar como arquivo CSV…</string>
+    <string name="zur_cksetzen">Redefinir</string>
+    <string name="ereignisarten">Tipos de evento…</string>
+    <string name="info">Info</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">
+        Não há eventos disponíveis.
+        Toque em um dos botões para registrar um evento.
+    </string>
+    <string name="date_time_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="ereignis_l_schen1">Excluir evento</string>
+    <string name="einstellungen">Configurações</string>
+    <string name="text_f_r_ereignis_1">Texto para o Evento 1</string>
+    <string name="text_f_r_ereignis_2">Texto para o Evento 2</string>
+    <string name="speichern">Salvar</string>
+    <string name="ereignisarten_anpassen">Personalizar tipos de evento</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">
+        Aqui você pode definir os rótulos para ambos os tipos de evento.
+    </string>
+    <string name="bezeichnung_f_r_ereignis_1">Rótulo para o Evento 1</string>
+    <string name="bezeichnung_f_r_ereignis_2">Rótulo para o Evento 2</string>
+</resources>

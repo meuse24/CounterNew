@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compteur</string>
+    <string name="l_schen_fehlgeschlagen">Échec de la suppression</string>
+    <string name="ok">OK</string>
+    <string name="app_info">Infos sur l’application</string>
+    <string name="zur_cksetzen_best_tigen">Confirmer la réinitialisation</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">
+        Voulez-vous vraiment supprimer tous les événements ? Cette action est irréversible.
+    </string>
+    <string name="ja_alle_l_schen">Oui, tout supprimer</string>
+    <string name="abbrechen">Annuler</string>
+    <string name="ereignis_l_schen">Supprimer l’événement</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">
+        Voulez-vous vraiment supprimer cet événement ?
+    </string>
+    <string name="ja_l_schen">Oui, supprimer</string>
+    <string name="ereignisz_hler">Compteur d’événements</string>
+    <string name="menu">Menu</string>
+    <string name="als_csv_datei_teilen">Partager sous forme de fichier CSV…</string>
+    <string name="zur_cksetzen">Réinitialiser</string>
+    <string name="ereignisarten">Types d’événements…</string>
+    <string name="info">Info</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">
+        Aucun événement disponible.
+        Touchez l’un des boutons pour enregistrer un événement.
+    </string>
+    <string name="date_time_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="ereignis_l_schen1">Supprimer l’événement</string>
+    <string name="einstellungen">Paramètres</string>
+    <string name="text_f_r_ereignis_1">Texte pour l’événement 1</string>
+    <string name="text_f_r_ereignis_2">Texte pour l’événement 2</string>
+    <string name="speichern">Enregistrer</string>
+    <string name="ereignisarten_anpassen">Personnaliser les types d’événements</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">
+        Ici, vous pouvez définir les libellés pour les deux types d’événements.
+    </string>
+    <string name="bezeichnung_f_r_ereignis_1">Libellé pour l’événement 1</string>
+    <string name="bezeichnung_f_r_ereignis_2">Libellé pour l’événement 2</string>
+</resources>

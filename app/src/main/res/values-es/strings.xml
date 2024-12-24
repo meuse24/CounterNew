@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="l_schen_fehlgeschlagen">Error al eliminar</string>
+    <string name="ok">OK</string>
+    <string name="app_info">Información de la aplicación</string>
+    <string name="zur_cksetzen_best_tigen">Confirmar restablecimiento</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">¿Realmente desea eliminar todos los eventos? Esta acción no se puede deshacer.</string>
+    <string name="ja_alle_l_schen">Sí, eliminar todo</string>
+    <string name="abbrechen">Cancelar</string>
+    <string name="ereignis_l_schen">Eliminar evento</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">¿Realmente desea eliminar este evento?</string>
+    <string name="ja_l_schen">Sí, eliminar</string>
+    <string name="ereignisz_hler">Contador de eventos</string>
+    <string name="menu">Menú</string>
+    <string name="als_csv_datei_teilen">Compartir como archivo CSV…</string>
+    <string name="zur_cksetzen">Restablecer</string>
+    <string name="ereignisarten">Tipos de evento…</string>
+    <string name="info">Información</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">
+        No hay eventos disponibles.
+        Toque uno de los botones para registrar un evento.
+    </string>
+    <string name="date_time_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="ereignis_l_schen1">Eliminar evento</string>
+    <string name="einstellungen">Ajustes</string>
+    <string name="text_f_r_ereignis_1">Texto para Evento 1</string>
+    <string name="text_f_r_ereignis_2">Texto para Evento 2</string>
+    <string name="speichern">Guardar</string>
+    <string name="ereignisarten_anpassen">Personalizar tipos de evento</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">
+        Aquí puede establecer las etiquetas para ambos tipos de evento.
+    </string>
+    <string name="bezeichnung_f_r_ereignis_1">Etiqueta para el Evento 1</string>
+    <string name="bezeichnung_f_r_ereignis_2">Etiqueta para el Evento 2</string>
+</resources>

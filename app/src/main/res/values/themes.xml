@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Definiere zuerst eine Farbe für das Blau -->
+    <color name="myBlue">#1976d2</color>
+
+    <style name="Theme.Counter" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Accent und Control-Farben auf dein Blau setzen -->
+        <item name="android:colorAccent">@color/myBlue</item>
+        <item name="android:colorControlHighlight">@color/myBlue</item>
+        <item name="android:colorControlActivated">@color/myBlue</item>
+
+        <!-- Optional: Hintergrundfarbe für den ganzen Screen anpassen
+        <item name="android:windowBackground">@android:color/white</item>
+        -->
+    </style>
+
+</resources>

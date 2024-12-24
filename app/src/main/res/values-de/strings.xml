@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="l_schen_fehlgeschlagen">Löschen fehlgeschlagen</string>
+    <string name="ok">OK</string>
+    <string name="app_info">App-Info</string>
+    <string name="zur_cksetzen_best_tigen">Zurücksetzen bestätigen</string>
+    <string name="m_chten_sie_wirklich_alle_ereignisse_l_schen_diese_aktion_kann_nicht_r_ckg_ngig_gemacht_werden">Möchten Sie wirklich alle Ereignisse löschen? Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="ja_alle_l_schen">Ja, alle löschen</string>
+    <string name="abbrechen">Abbrechen</string>
+    <string name="ereignis_l_schen">Ereignis löschen</string>
+    <string name="m_chten_sie_dieses_ereignis_wirklich_l_schen">Möchten Sie dieses Ereignis wirklich löschen?</string>
+    <string name="ja_l_schen">Ja, löschen</string>
+    <string name="ereignisz_hler">Ereigniszähler</string>
+    <string name="menu">Menu</string>
+    <string name="als_csv_datei_teilen">Als CSV-Datei teilen…</string>
+    <string name="zur_cksetzen">Zurücksetzen</string>
+    <string name="ereignisarten">Ereignisarten…</string>
+    <string name="info">Info</string>
+    <string name="keine_ereignisse_vorhanden_tippen_sie_auf_einen_der_buttons_um_ein_ereignis_zu_erfassen">Keine Ereignisse vorhanden.\n Tippen Sie auf einen der Buttons um ein Ereignis zu erfassen.</string>
+    <string name="date_time_format">dd.MM.yyyy HH:mm:ss</string>
+    <string name="ereignis_l_schen1">Ereignis löschen</string>
+    <string name="einstellungen">Einstellungen</string>
+    <string name="text_f_r_ereignis_1">Text für Ereignis 1</string>
+    <string name="text_f_r_ereignis_2">Text für Ereignis 2</string>
+    <string name="speichern">Speichern</string>
+    <string name="ereignisarten_anpassen">Ereignisarten anpassen</string>
+    <string name="hier_k_nnen_sie_die_bezeichnungen_f_r_die_beiden_ereignistypen_festlegen">Hier können Sie die Bezeichnungen für die beiden Ereignistypen festlegen.</string>
+    <string name="bezeichnung_f_r_ereignis_1">Bezeichnung für Ereignis 1</string>
+    <string name="bezeichnung_f_r_ereignis_2">Bezeichnung für Ereignis 2</string>
+</resources>
